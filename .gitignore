@@ -1,0 +1,31 @@
+# Datos originales de Kaggle: NO se suben al repositorio
+data/*
+!data/README.md
+athlete_events.csv
+noc_regions.csv
+*.zip
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Cachés de Python
+__pycache__/
+*.py[cod]
+
+# Entornos y configuración local
+.venv/
+venv/
+env/
+.env
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos pesados
+*.parquet
+*.pkl
+*.h5
