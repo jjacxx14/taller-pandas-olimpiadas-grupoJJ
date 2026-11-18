@@ -1,0 +1,17 @@
+Sex,grupo_etario,tiene_medidas,registros,tasa_medalla
+F,Menores,Con estatura y peso,8049,9.29
+F,Menores,Sin estatura o peso,1287,10.8
+F,Jóvenes adultos,Con estatura y peso,56255,16.47
+F,Jóvenes adultos,Sin estatura o peso,5634,12.21
+F,Mayores,Con estatura y peso,2407,14.08
+F,Mayores,Sin estatura o peso,466,12.66
+F,Sin edad,Con estatura y peso,18,0.0
+F,Sin edad,Sin estatura o peso,406,4.19
+M,Menores,Con estatura y peso,2241,6.83
+M,Menores,Sin estatura o peso,931,14.93
+M,Jóvenes adultos,Con estatura y peso,128911,14.48
+M,Jóvenes adultos,Sin estatura o peso,38817,16.62
+M,Mayores,Con estatura y peso,8302,12.23
+M,Mayores,Sin estatura o peso,8342,16.7
+M,Sin edad,Con estatura y peso,670,2.24
+M,Sin edad,Sin estatura o peso,8380,8.35

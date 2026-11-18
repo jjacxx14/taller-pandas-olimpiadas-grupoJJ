@@ -1,0 +1,11 @@
+tiene_medidas,,Con estatura y peso,Con estatura y peso,Sin estatura o peso,Sin estatura o peso
+medalla,,Medalla,Sin medalla,Medalla,Sin medalla
+Sex,grupo_etario,,,,
+F,Menores,8.01,78.2,1.49,12.3
+F,Jóvenes adultos,14.97,75.93,1.11,7.99
+F,Mayores,11.8,71.98,2.05,14.17
+F,Sin edad,0.0,4.25,4.01,91.75
+M,Menores,4.82,65.83,4.38,24.97
+M,Jóvenes adultos,11.13,65.73,3.85,19.3
+M,Mayores,6.1,43.78,8.37,41.75
+M,Sin edad,0.17,7.24,7.73,84.86
