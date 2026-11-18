@@ -12,7 +12,7 @@ El grupo tiene un solo integrante, así que asumí los tres roles: limpieza y an
 
 ## Objetivos
 
-- Cargar, describir y comparar los conjuntos de datos de atletas y regiones.
+- Cargar los dos datasets de Kaggle y entender qué representa cada variable.
 - Crear nuevas variables (IMC, medalla, grupo etario, número de pruebas) y unir los datos por país.
 - Revisar los datos faltantes y qué tan representativos son los datos de toda la historia olímpica.
 - Responder preguntas con agrupaciones y tasas, y presentar los hallazgos con gráficos.
