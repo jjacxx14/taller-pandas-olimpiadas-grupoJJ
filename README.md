@@ -29,7 +29,7 @@ El grupo tiene un solo integrante, así que asumí los tres roles: limpieza y an
 ## Estructura del proyecto
 
 ```
-taller-pandas-olimpiadas-grupoX/
+taller-pandas-olimpiadas-grupoJJ/
 ├── README.md            # Presentación del proyecto
 ├── .gitignore           # Archivos y carpetas a ignorar (incluye los CSV de data/)
 ├── requirements.txt     # Librerías necesarias
